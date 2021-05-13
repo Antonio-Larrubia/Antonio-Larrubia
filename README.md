@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ealdev" target="blank"><img src="https://img.shields.io/twitter/follow/ealdev?logo=twitter&style=for-the-badge" alt="ealdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://antoniolarrubia.netlify.app/#projects](https://antoniolarrubia.netlify.app/#projects)
+- 👨‍💻 All of my projects are available at <a href="https://antoniolarrubia.netlify.app/#projects">My Portfolio</a>
 
 - 📫 How to reach me **eal311088@gmail.com**
 
