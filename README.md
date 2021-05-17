@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ealdev" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/129-1293294_facebook-twitter-email-launcher-icon-svg.png" alt="ealdev" height="30" width="40" /></a>
+<a href="https://twitter.com/ealdev" target="blank">Twitter</a>
 <a href="https://linkedin.com/in/antonio-larrubia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="antonio-larrubia" height="30" width="40" /></a>
 </p>
 
