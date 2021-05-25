@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ealdev" target="blank">Twitter</a>
+<a href="https://twitter.com/ealdev" target="blank">Twitter</a><br>
 <a href="https://linkedin.com/in/antonio-larrubia" target="blank">LinkedIn</a>
 </p>
 
