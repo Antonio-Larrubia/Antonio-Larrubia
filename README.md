@@ -10,7 +10,6 @@
 - 📫 How to reach me **eal311088@gmail.com**
 
 - 📄 Know about my experiences checking my <a href="https://drive.google.com/file/d/11Z6IzFgC9JaJxAwt1SSJ5B-DdWm4aBHa/view?usp=sharing" target="_blank">Resume</a>
-- ⚡ Fun fact **I wanted to be a ghostbuster (Didn't work) so I became the second best thing. A software developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
