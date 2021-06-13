@@ -13,8 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ealdev" target="blank">Twitter</a><br>
-<a href="https://linkedin.com/in/antonio-larrubia" target="blank">LinkedIn</a>
+<a href="https://twitter.com/ealdev" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a><br>
+<a href="https://linkedin.com/in/antonio-larrubia" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/telefang/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+	"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
