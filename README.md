@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://antoniolarrubia.netlify.app/#projects">My Projects</a>
 
-- 📫 How to reach me **eal311088@gmail.com**
-
 - 📄 Know about my experiences and qualifications checking my <a href="https://drive.google.com/file/d/11Z6IzFgC9JaJxAwt1SSJ5B-DdWm4aBHa/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
