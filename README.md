@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ealdev" target="blank"><img src="https://img.shields.io/twitter/follow/ealdev?logo=twitter&style=for-the-badge" alt="ealdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://antoniolarrubia.netlify.app/#projects">My Projects</a>
+- 👨‍💻 All of my projects are available at: <a href="https://antoniolarrubia.netlify.app/#projects">My Projects</a>
 
 - 📄 Know about my experiences and qualifications checking my <a href="https://drive.google.com/file/d/11Z6IzFgC9JaJxAwt1SSJ5B-DdWm4aBHa/view?usp=sharing" target="_blank">Resume</a>
 
