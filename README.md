@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonio-larrubia&label=Profile%20views&color=0e75b6&style=flat" alt="antonio-larrubia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ealdev" target="blank"><img src="https://img.shields.io/twitter/follow/ealdev?logo=twitter&style=for-the-badge" alt="ealdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ealdev" target="blank"><img src="https://img.shields.io/twitter/follow/ealdev?logo=twitter&style=for-the-badge" alt="ealdev" /></a></p>
 
 - 👨‍💻 All of my projects are available at: <a href="https://antoniolarrubia.netlify.app/#projects">My Projects</a>
 
