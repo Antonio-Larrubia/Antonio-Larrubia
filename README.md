@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: <a href="https://antoniolarrubia.netlify.app/#projects">My Projects</a>
 
-- 📄 Know about my experiences and qualifications checking my <a href="https://drive.google.com/file/d/11Z6IzFgC9JaJxAwt1SSJ5B-DdWm4aBHa/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experience and qualifications checking my <a href="https://drive.google.com/file/d/11Z6IzFgC9JaJxAwt1SSJ5B-DdWm4aBHa/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
