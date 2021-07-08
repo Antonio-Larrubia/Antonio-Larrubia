@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-larrubia&show_icons=true&locale=en&theme=gotham" alt="antonio-larrubia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-larrubia&theme=gotham" alt="antonio-larrubia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio-larrubia&theme=gotham" alt="antonio_larrubia" /></p>
 
